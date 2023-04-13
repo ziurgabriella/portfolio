@@ -1,5 +1,6 @@
 # portfolio
-![alt text](./assets/images/Screenshot%202023-04-06%20at%2010.41.28%20AM.png)
+
+![Alt text](/desktop/portfolio/pfile)
 
 ## Description
 
