@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 100;
+    padding: 0;
+    background-color: #ff82c5;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #FFD3D3;
+}
+
+header h1 {
+  margin: 100;
+  font-size: 32px;
+  color: #FF69B4;
+}
+header nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  header nav li {
+    margin: 0 10px;
+  }
+  
+  header nav li a {
+    text-decoration: none;
+    color: #FF69B4;
+    font-weight: bold;
+  }
+  section#about {
+    padding: 50px;
+    background-color: #fff2fa;
+  }
+  
+  section#about h2 {
+    margin-top: 0;
+    font-size: 28px;
+    color: #FF69B4;
+  }
+  
+  section#about p {
+    font-size: 18px;
+    color: #FFB6C1;
+  }
+  section#work {
+    padding: 50px;
+    background-color: #fda9d3;
+  }
+  
+  section#work h2 {
+    margin-top: 50;
+    font-size: 30px;
+    color: #fcf5f9;
+  }
+  
+  section#work h4 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #f983be;
+  }
+  section#work p {
+    font-size: 18px;
+    color: #FFB6C1;
+  }
+  
+  section#work img {
+    max-width: 100%;
+  }
+  
+  section#contact {
+    padding: 50px;
+    background-color: #FFD3D3;
+  }
+  
+  section#contact h2 {
+    margin-top: 0;
+    font-size: 28px;
+    color: #FF69B4;
+  }
+  section#contact form label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #FFB6C1;
+  }
+  
+  section#contact form input[type="text"],
+  section#contact form input[type="email"],
+  section#contact form textarea {
+    padding: 10px;
+    margin-bottom: 100px;
+    font-size: 18px;
+    color: #555;
+    border: 1px solid #FFB6C1;
+    border-radius: 5px;
+  }
+  section#contact form button[type="submit"] {
+    padding: 20px 80px;
+    background-color: #FF69B4;
+    color: #FFF;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #FFD3D3;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #FFB6C1;
+  }
+  
+
+   
