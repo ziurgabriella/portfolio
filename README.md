@@ -24,7 +24,7 @@ To view the webpage, simply open the index.html file in a web browser. The webpa
 
 ## Credits
 
-The webpage was created by Horiseon Social Solution Services, Inc.
+The webpage was created by Gabriella Ruiz
 
 ## License
-The webpage was created by Gabriella Ruiz. The webpage was designed using HTML and CSS.
+other
