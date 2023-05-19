@@ -1,6 +1,6 @@
 # portfolio
 
-![Alt text](/portfolio/pfile.png)
+![Alt text](/portfolio/portfolio/assets/pfile.png)
 
 ## Description
 
